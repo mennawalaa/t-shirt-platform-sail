@@ -1,0 +1,18 @@
+# web site design for selling shirts 
+uses java script jQuery
+
+you have multiple options for your order 
+-color 
+-style
+-Qualtiy of fabric
+-quatity
+ the user use this options to choose a product that is a part of object containing all products availble
+ then the total price is calculated 
+ 
+ 1. The prices above are for Basic quality (q150). 
+ The high quality shirt (190g/m2) has a 12% increase in the unit price.
+
+ 2. Apply the following discounts for higher quantities: 
+-1: above 1.000 units - 20% discount
+-2: above 500 units - 12% discount
+-3: above 100 units - 5% discount
